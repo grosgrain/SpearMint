@@ -1,0 +1,24 @@
+.modal-footer {   border-top: 0px; }
+  .rating{
+      width:30px;
+      height:30px;
+      background-repeat:no-repeat;
+      display:block;
+      cursor:default;
+  }
+
+  .fillstar{
+      background-image:url("../shop/Image/Gold.png");
+  }
+
+  .emptystar{
+      background-image:url(../shop/Image/Gray.png);
+  }
+
+ .waitstar{
+      background-image:url(../shop/Image/Red.png);
+  }
+
+.generalrating{
+     margin:0 15%;
+ }
