@@ -11,8 +11,24 @@ Home page has fixed navigation bar on the top. Image carousel is used to display
 
 ### Register Page
 
+Validation has been enabled in register page.
 ![] (screenShot/register.png)
 
-Validation has been enabled in register page.
+
+
+### Login Page
+
+Login page contains security code, which is case sensitive.
+![] (screenShot/login.png)
+
+
+
+### Password Recovery
+
+
+
+
+
+
 
 
