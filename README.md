@@ -1,6 +1,6 @@
 # SpearMint
 
-SpearMint is a C# ASP.NET website template which includes basic functions of user register, login, edit personal information, rating and making comments. All data are stored in local MS SQL database.
+SpearMint is a responsive C# ASP.NET website template which includes basic functions of user register, login, edit personal information, rating and making comments. All data are stored in local MS SQL database. It is also mobile-friendly.
 
 ### Home Page
 
@@ -48,6 +48,16 @@ The sample page could also enable users to make comments and rating. You could c
 
 ![] (screenShot/shop_p1.png)
 ![] (screenShot/shop_p2.png)
+
+### Administration Section
+
+After user loging in, the user could check and edit personal information by clicking "Account" button on navigation bar.
+
+In this section, user could edit personal information, check order status, give feedback to the website etc. 
+
+A QR code is also generated to store user ID in order to enable users to share their ID to others.
+
+![] (screenShot/administration.png)
 
 
 
