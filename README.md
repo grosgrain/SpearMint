@@ -29,7 +29,7 @@ A email that include the user's password would be sent to user's registered emai
 
 If the email address is not in the data base. An erro message will show up.
 
-![] (screenShot/forgetpw.png)
+![] (screenShot/findpw.png)
 ![] (screenShot/email.png)
 ![] (screenShot/wrongpw.png)
 
