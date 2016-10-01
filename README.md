@@ -7,3 +7,12 @@ SpearMint is a C# ASP.NET website template which includes basic functions of use
 ![] (screenShot/home.png)
 
 Home page has fixed navigation bar on the top. Image carousel is used to display advertisement.
+
+
+### Register Page
+
+![] (screenShot/register.png)
+
+Validation has been enabled in register page.
+
+
