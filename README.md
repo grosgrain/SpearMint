@@ -1,3 +1,3 @@
 # SpearMint
 
-# Home Page
+### Home Page
