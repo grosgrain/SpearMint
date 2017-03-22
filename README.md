@@ -5,19 +5,19 @@ SpearMint is a responsive C# ASP.NET website template which includes basic funct
 ### Home Page
 
 Home page has fixed navigation bar on the top. Image carousel is used to display advertisement.
-![] (screenShot/home.png)
+![alt tag](screenShot/home.png)
 
 ### Register Page
 
 Validation has been enabled in register page.
-![] (screenShot/register.png)
+![alt tag](screenShot/register.png)
 
 
 
 ### Login Page
 
 Login page contains security code, which is case sensitive.
-![] (screenShot/Login.png)
+![alt tag](screenShot/Login.png)
 
 
 
@@ -29,16 +29,16 @@ A email that include the user's password would be sent to user's registered emai
 
 If the email address is not in the data base. An erro message will show up.
 
-![] (screenShot/findpw.png)
-![] (screenShot/email.png)
-![] (screenShot/wrongpw.png)
+![alt tag](screenShot/findpw.png)
+![alt tag](screenShot/email.png)
+![alt tag](screenShot/wrongpw.png)
 
 
 ### Shop Section
 
 By clicking "Shop" on navigation bar, user will be directed to shop section.
 
-![] (screenShot/shops.png)
+![alt tag](screenShot/shops.png)
 
 In order to explain the design concept of SpearMint template. We created a sample shop called SpearMint Shop.
 
@@ -46,8 +46,8 @@ Google maps are embeded in the sample page.
 
 The sample page could also enable users to make comments and rating. You could check demo.aspx in C#_ASP.NET file for details.
 
-![] (screenShot/shop_p1.png)
-![] (screenShot/shop_p2.png)
+![alt tag](screenShot/shop_p1.png)
+![alt tag](screenShot/shop_p2.png)
 
 ### Administration Section
 
@@ -57,7 +57,7 @@ In this section, user could edit personal information, check order status, give 
 
 A QR code is also generated to store user ID in order to enable users to share their ID to others.
 
-![] (screenShot/administration.png)
+![alt tag](screenShot/administration.png)
 
 
 
